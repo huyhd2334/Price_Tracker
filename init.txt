@@ -1,0 +1,6 @@
+npm init -y
+npm install express pg dotenv cors jsonwebtoken bcrypt
+npm install -D nodemon
+
+frontend
+npx create-next-app@latest frontend
